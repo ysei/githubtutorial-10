@@ -4,10 +4,13 @@
       "idiom" : "universal",
       "scale" : "1x",
       "filename" : "2014-07-07 08.58.25.png"
+<<<<<<< HEAD
     },
     {
       "idiom" : "universal",
       "scale" : "2x"
+=======
+>>>>>>> 890c14b8555d976c77d9b1e61d421c8daba9f294
     }
   ],
   "info" : {
